@@ -1,4 +1,4 @@
-# decentralized_wallet
+# Decentralized Wallet
 
 A new Flutter project.
 
